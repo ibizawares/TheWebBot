@@ -29,14 +29,14 @@
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-ibizawares)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-ibizawares)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/TheWebBot/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/TheWebBot/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/TheWebBot/master/install.sh | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+git clone https://github.com/ibizawares/TheWebBot.git && cd HATSUNE-MIKU-ULTRA
 ```
 
 ```bash
