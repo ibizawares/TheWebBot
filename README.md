@@ -136,6 +136,6 @@ npm start
 
 
 ## `CREADO POR ibizawares` 
-<a href="https://github.com/ibizawares"><img src="https://i.imgur.com/tvwXyiH.jpg" width="250" height="250" alt="ibizawates"/></a>
+<a href="https://github.com/ibizawares"><img src="https://i.imgur.com/a/tvwXyiH.jpg" width="250" height="250" alt="ibizawates"/></a>
   
 `TheWebBot - By ibizawares`
