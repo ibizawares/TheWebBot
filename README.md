@@ -35,8 +35,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-ibizawares)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/OBSALETO-HATSUNE-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/OBSALETO-HATSUNE-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/ibizawares/OBSALETO-HATSUNE-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ibizawares/OBSALETO-HATSUNE-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd TheWebBot
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd TheWebBot
 ```
 
 ```bash
@@ -119,7 +119,7 @@ npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/ibizawares/TheWebBot/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
@@ -135,7 +135,7 @@ npm start
 - HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
-## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
+## `CREADO POR ibizawares` 
+<a href="https://github.com/ibizawares"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
   
-`HATSUNE-MIKU-ULTRA - By YOVANI`
+`TheWebBot - By ibizawares`
