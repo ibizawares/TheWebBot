@@ -4,15 +4,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['5212295943790', 'TheWebBot', true],
+  ['5212741132721', 'TheWebBot', true],
+  ['5212294874352', 'TheWebBot', true],
+  ['5217294506003', 'TheWebBot', true],
 ]
-global.suittag =['5212412477467']
+global.suittag =['5217294506003']
 global.mods = []
-global.prems = ['5212412474767'], 
-global.prems = ['5212412377467'],
+global.prems = ['5217294506003'], 
+global.prems = ['5217294506003'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -63,21 +63,21 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 '
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = 'TheWebBot '
+global.author = '©ibizawares﹏✍'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '⫷᭄TheWebBot﹏✍'
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://youtu.be/00000000'
 global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
-global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git'
+global.md = 'https://github.com/ibizawares/TheWebBot/tree/master'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt'
+global.nn = 'https://chat.whatsapp.com/Jd9eQzduqS0D8OaPasYbVx'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/Jd9eQzduqS0D8OaPasYbVx'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -96,8 +96,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
-global.igfg = '⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
+global.wm = '©ibizawares﹏✍\n⫷᭄TheWebBot ✍'
+global.igfg = '⫷᭄TheWebBot ✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./views/grupo.jpg')
