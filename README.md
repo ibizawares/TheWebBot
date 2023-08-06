@@ -35,8 +35,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-ibizawares)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/TheWebBot/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ibizawares/TheWebBot/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/OBSALETO-HATSUNE-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/OBSALETO-HATSUNE-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
