@@ -107,11 +107,11 @@ getMessage: async (key) => {
 if (store) {
 const msg = await store.loadMessage(key.remoteJid, key.id)
 return msg.message || undefined }
-return { conversation: "hello, i'm OFC-YOVANI" }},   
+return { conversation: "hello, i'm ibizawares" }},   
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['HATSUNE-MIKU-ULTRA','Safari','9.7.0'],
+browser: ['TheWebBot','Safari','9.7.0'],
 version,
 defaultQueryTimeoutMs: undefined  
 }
