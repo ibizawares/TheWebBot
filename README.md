@@ -36,7 +36,7 @@
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/TheWebBot/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/TheWebBot/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ibizawares/TheWebBot/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
