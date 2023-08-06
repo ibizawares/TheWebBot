@@ -1,19 +1,19 @@
-# `♦️HATSUNE-MIKU-ULTRA💥`
+# `♦️TheWebBot💥`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/5212411719888" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5212295943790" target="blank"><img src="https://img.shields.io/badge/OFC-TheWebBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5212741132721" target="blank"><img src="https://img.shields.io/badge/OFC-TheWebBot_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
-<a href="https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/Jd9eQzduqSOD80aPasYbVx" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5212411347465&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=5212295943790&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
@@ -25,7 +25,7 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HATSUNE-MIKU)](https://repl.it/github/OFC-YOVANI/HATSUNE-MIKU)
+[![Run on Repl.it](https://repl.it/badge/github/OFC-ibizawares)](https://repl.it/github/OFC-ibizawares)
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
